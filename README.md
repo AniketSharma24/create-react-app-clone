@@ -9,7 +9,7 @@ This repository contains all the boilerplate code required to create a React app
 
 ## Prerequisites
 
-Before you start, make sure you have the following installed on your machine:
+Before you start, make sure you have knowledge of the following technologies/tools:
 
 * JavaScript
 * NPM
