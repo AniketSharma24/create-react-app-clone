@@ -1,0 +1,27 @@
+{
+  "name": "create-react-app-clone",
+  "version": "1.0.0",
+  "description": "This project concentrates on creating the boilerplate react app without using any predefined packages like create-react-app",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniketSharma24/create-react-app-clone.git"
+  },
+  "author": "Aniket Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AniketSharma24/create-react-app-clone/issues"
+  },
+  "homepage": "https://github.com/AniketSharma24/create-react-app-clone#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
